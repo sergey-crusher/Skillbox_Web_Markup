@@ -1,2 +1,2 @@
-# Skillbox_Web_Markup
- 
+# Skillbox
+Курс: Веб-верстка «Базовый уровень» 
